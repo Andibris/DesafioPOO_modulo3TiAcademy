@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\bin\Debug\net7.0\Exercicio2.exe
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\bin\Debug\net7.0\Exercicio2.deps.json
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\bin\Debug\net7.0\Exercicio2.runtimeconfig.json
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\bin\Debug\net7.0\Exercicio2.dll
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\bin\Debug\net7.0\Exercicio2.pdb
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\obj\Debug\net7.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\obj\Debug\net7.0\Exercicio2.dll
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\obj\Debug\net7.0\refint\Exercicio2.dll
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\obj\Debug\net7.0\Exercicio2.pdb
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\obj\Debug\net7.0\Exercicio2.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\ExerciciosPOO\Exercicio2\obj\Debug\net7.0\ref\Exercicio2.dll
