@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CheckPoint0911/1.0.0": {
+        "runtime": {
+          "CheckPoint0911.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckPoint0911/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
