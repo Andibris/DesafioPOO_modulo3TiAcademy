@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\obj\Debug\net7.0\CheckPoint1111.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\obj\Debug\net7.0\CheckPoint1111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\obj\Debug\net7.0\CheckPoint1111.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\obj\Debug\net7.0\CheckPoint1111.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\obj\Debug\net7.0\CheckPoint1111.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\bin\Debug\net7.0\CheckPoint1111.exe
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\bin\Debug\net7.0\CheckPoint1111.deps.json
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\bin\Debug\net7.0\CheckPoint1111.runtimeconfig.json
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\bin\Debug\net7.0\CheckPoint1111.dll
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\bin\Debug\net7.0\CheckPoint1111.pdb
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\obj\Debug\net7.0\CheckPoint1111.dll
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\obj\Debug\net7.0\refint\CheckPoint1111.dll
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\obj\Debug\net7.0\CheckPoint1111.pdb
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\obj\Debug\net7.0\CheckPoint1111.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\Anderson\Bootcamp C#\cSharp\CheckPoint1111\obj\Debug\net7.0\ref\CheckPoint1111.dll
